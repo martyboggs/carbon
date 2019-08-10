@@ -1,10 +1,10 @@
 ---
-title: Stopping Worldwide Carbon Emissions to Stop Global Warming
+title: Curbing Worldwide Climate Change
 ---
 
 Carbon is emitted as CO2 which causes global warming.
 
-## The 10 Countries that Emit the Most CO2
+## The 10 Countries that Emit the Most CO2 in 2019
 
 1. China
 2. USA
@@ -18,7 +18,7 @@ Carbon is emitted as CO2 which causes global warming.
 10. Canada
 
 ## The Best Approach to Stop Carbon Emissions
-The best approach to stop carbon emissions, is for nations to pass legislation that limits carbon emissions.
+The best approach to stop carbon emissions is for nations to pass legislation that limits carbon emissions.
 
 ## Insurance Companies
 Could help prevent developing countries make the right choice and choose renewable energy.
@@ -26,6 +26,22 @@ Switch to good insurance company or write a letter
 
 ## Communication
 Many people have rejected the scientific consensus. Cutting carbon emissions can have other positive changes to the environment and to the economy. It's often a good idea to change your message to focus on the changes that people think are the most important.
+
+USE: Cleaner, safer, healthier. LOSE: Sustainable/sustainability.
+
+USE: Solving climate change. LOSE: Ending global warming.
+
+USE: Principles and priorities. LOSE: Values.
+
+USE: Reliable technology/energy. LOSE: Ground-breaking/State of the art.
+
+USE: New careers. LOSE: New jobs.
+
+USE: Peace of mind. LOSE: Security.
+
+USE: Consequences. LOSE: Threats/Problems.
+
+USE: Working together. LOSE: One world.
 
 ## Power Supply Auctions?
 reducing coal: power supply auctions 4 cents/ kW hour
@@ -61,3 +77,4 @@ https://www.nytimes.com/interactive/2019/04/02/climate/pricing-carbon-emissions.
 
 ## References
 
+https://grist.org/article/the-gops-most-famous-messaging-strategist-calls-for-climate-action/
