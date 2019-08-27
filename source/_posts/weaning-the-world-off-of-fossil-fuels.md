@@ -42,3 +42,4 @@ https://yearbook.enerdata.net/
 
 # Projected Energy Sources
 <img src="/charts/Ecofys_renewable-by-2050.png">
+<!-- -->
