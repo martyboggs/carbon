@@ -1,5 +1,6 @@
 ---
 title: What Can One Person Do to Improve Climate Conditions
+tags: [lifestyle]
 ---
 
 A single person has two things they can offer the world: time and money.
@@ -39,8 +40,9 @@ Here are other things I wrote down:
 - Choose plants over meat $200/month
 - Drink water instead of some manufactured beverage
 - Only take electric plane flights $200/month
-- Use green energy $50/month
-- Shop online
+- Use green electricity $50/month
+- Drive electric car
+- Put solar panels on your roof
 - Recycle, minimize waste
 - Educate
 - Green gym
@@ -51,3 +53,4 @@ Here are other things I wrote down:
 - Green taxes?
 - Green church?
 - Green healthcare?
+- Donate to renewable energy projects
