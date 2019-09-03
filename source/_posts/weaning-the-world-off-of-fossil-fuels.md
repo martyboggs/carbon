@@ -2,16 +2,6 @@
 title: Weaning the World Off of Fossil Fuels
 ---
 
-https://yearbook.enerdata.net/
-
-<style>
-.article-entry img {
-	width: 100%;
-	margin-bottom: 100px;
-	border: 1px solid #e1e1e1;
-}
-</style>
-
 # The world is transitioning to renewable energy sources.
 
 # China uses the most coal.
@@ -41,5 +31,7 @@ https://yearbook.enerdata.net/
 <img src="/charts/oil-production.png">
 
 # Projected Energy Sources
-<img src="/charts/Ecofys_renewable-by-2050.png">
-<!-- -->
+<img src="/charts/Ecofys_renewable-by-2050.png" style="margin-bottom: 0">
+
+[https://yearbook.enerdata.net/](https://yearbook.enerdata.net/)
+[https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/primary-energy.html](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/primary-energy.html)
