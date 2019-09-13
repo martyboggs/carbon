@@ -1,5 +1,6 @@
 ---
 title: Agrivoltaics Spread Through Asia and Europe. Next stop, America.
+tags: ['agrivoltaics']
 ---
 
 <img src="/photos/oregon-state-university-apv.jpg" style="margin-bottom: 0">
